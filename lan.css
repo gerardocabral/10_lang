@@ -1,0 +1,83 @@
+body{
+  font-family: 'Orbitron', sans-serif;
+  color: white;
+  background-image: url("http://maltaannon.com/wp-content/uploads/tutorials/after-effects/the-matrix-raining-code/preview.jpg");
+}
+
+h1{
+  text-align: center;
+  font-family: 'Orbitron', sans-serif;
+}
+
+.navbar-inverse .navbar-brand {
+  color: #1fdf2c;
+
+}
+
+.devicon-javascript-plain {
+  font-size: 4rem;
+  color: yellow;
+}
+
+.devicon-java-plain {
+  font-size: 6rem;
+  color: red;
+}
+
+.devicon-php-plain {
+  font-size: 8rem;
+  color:#536eff;
+}
+
+.devicon-python-plain {
+  font-size: 4rem;
+  color:#ffa700;
+}
+
+.devicon-ruby-plain {
+  font-size: 4rem;
+  color: 			#b42727;
+}
+
+.devicon-react-original {
+  font-size: 4rem;
+  color:	#3399ff;
+}
+
+.devicon-c-plain {
+  font-size: 4rem;
+  color: green;
+}
+
+.devicon-cplusplus-plain {
+  font-size: 4rem;
+  color: 	#1e5985;
+}
+
+.devicon-csharp-plain {
+  font-size: 4rem;
+  color: 	#7a405d;
+}
+
+.devicon-rails-plain {
+  font-size: 4rem;
+  color:		#b42727;
+}
+
+p{
+  border-style: solid;
+  border-color: black;
+  padding: 5px;
+  background-color: black;
+  color: white;
+}
+
+.jumbotron{
+  background-color: black;
+}
+
+footer{
+  text-align: right;
+  margin-right: 20px;
+  font-weight: bolder; 
+}
