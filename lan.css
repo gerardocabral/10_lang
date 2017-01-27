@@ -76,8 +76,32 @@ p{
   background-color: black;
 }
 
+.clear {
+  clear: both;
+}
+
+.bold {
+  font-weight:bold;
+}
+
+.padding-sides {
+    padding: 0 30px;
+}
+
+.padding-tops {
+    padding: 0 30px;
+}
+
+.black-back {
+  background: #000;
+}
+
+.red-back {
+  background: #F00;
+}
+
 footer{
   text-align: right;
   margin-right: 20px;
-  font-weight: bolder; 
+  font-weight: bolder;
 }
